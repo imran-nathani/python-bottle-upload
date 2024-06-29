@@ -1,0 +1,1 @@
+<h1>Thank you for the submission</h1>
